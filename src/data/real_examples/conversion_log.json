@@ -1,0 +1,38 @@
+[
+  {
+    "filename": "exStudy.rda",
+    "status": "ERROR",
+    "details": "The file contains an unrecognized object",
+    "timestamp": "2025-07-07T14:25:29.310765"
+  },
+  {
+    "filename": "exStudy.rda",
+    "status": "ERROR",
+    "details": "The file contains an unrecognized object",
+    "timestamp": "2025-07-07T14:25:29.310775"
+  },
+  {
+    "filename": "testWhistle.rda",
+    "status": "SUCCESS",
+    "details": "Saved as .pkl and .json",
+    "timestamp": "2025-07-07T14:25:29.311694"
+  },
+  {
+    "filename": "testCeps.rda",
+    "status": "SUCCESS",
+    "details": "Saved as .pkl and .json",
+    "timestamp": "2025-07-07T14:25:29.312503"
+  },
+  {
+    "filename": "testGPL.rda",
+    "status": "SUCCESS",
+    "details": "Saved as .pkl and .json",
+    "timestamp": "2025-07-07T14:25:29.313199"
+  },
+  {
+    "filename": "testClick.rda",
+    "status": "SUCCESS",
+    "details": "Saved as .pkl and .json",
+    "timestamp": "2025-07-07T14:25:29.313733"
+  }
+]
