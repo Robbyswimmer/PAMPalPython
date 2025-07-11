@@ -543,43 +543,14 @@ PAMpal includes comprehensive test coverage:
 - **Cloud Processing**: Support for large-scale cloud-based analysis
 - **Machine Learning**: Integration with deep learning models for species classification
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [contributing guidelines](docs/contributing.md) for details on:
-
-- Code style and standards
-- Testing requirements
-- Documentation guidelines
-- Pull request process
-
-### Getting Help
-
-- **Documentation**: See the [docs/](docs/) directory for detailed guides
-- **Issues**: Report bugs or request features on [GitHub Issues](https://github.com/TaikiSan21/PAMpal/issues)
-- **Discussions**: Join the community discussions for questions and support
-
-## 📜 License
-
-PAMpal Python is released under the GNU General Public License (GPL). See [LICENSE](LICENSE) for details.
-
-## 📚 Citation
-
-If you use PAMpal in your research, please cite:
-
-```bibtex
-@software{pampal_python,
-  author = {PAMpal Development Team},
-  title = {PAMpal Python: Marine Mammal Bioacoustics Analysis},
-  url = {https://github.com/TaikiSan21/PAMpal},
-  version = {0.1.0},
-  year = {2024}
-}
-```
-
 ## 🙏 Acknowledgments
 
 PAMpal Python is based on the original R package developed by Taiki Sakai and the marine mammal research community. This Python implementation extends the capabilities to the broader scientific Python ecosystem while maintaining compatibility with established bioacoustic analysis workflows.
 
+## Mission Statement
+
+PAMpal Python is built with the belief that cutting-edge marine mammal research should be accessible to all scientists, educators, and conservationists—empowering open, transparent, and reproducible bioacoustic analysis.
+
 ---
 
-**Ready to dive into marine mammal bioacoustics?** Start with the [Quick Start](#-quick-start) section and explore the [real data examples](examples/real_data_analysis/) to see PAMpal in action!
+**Ready to dive into marine mammal bioacoustics?** Explore the [real data examples](examples/real_data_analysis/) to see PAMpal in action!
