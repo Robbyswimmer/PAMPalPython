@@ -553,4 +553,4 @@ PAMpal Python is built with the belief that cutting-edge marine mammal research 
 
 ---
 
-**Ready to dive into marine mammal bioacoustics?** Explore the [real data examples](examples/real_data_analysis/) to see PAMpal in action!
+**Ready to dive into marine mammal bioacoustics?** Explore the [real data examples](src/examples/real_data_analysis/) to see PAMpal in action!
